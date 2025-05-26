@@ -1,4 +1,4 @@
-SARA 2.0
+
 <p align="center">
   <img src="https://photos.app.goo.gl/Q5G7Ho4ChZ1MTu4V6" width="150" alt="S.A.R.A Logo"/>
 </p>
@@ -51,14 +51,14 @@ S.A.R.A. fue creada para ser más que un asistente genérico. Estas son algunas 
 
 ## 💡 Filosofía del asistente
 
-S.A.R.A. no es solo una herramienta. Tiene presencia. Te acompaña en tus tareas, te responde con picardía, y te hace sentir que tienes un verdadero aliado digital que no solo obedece, sino que también opina (con estilo).
+S.A.R.A. no es solo una herramienta. Tiene presencia. Te acompaña en tus tareas, y te hace sentir que tienes un verdadero aliado digital.
 
 ---
 
 ## 👤 Desarrollado por
 
 **Eduardo Salazar**  
-Proyecto personal con visión, sarcasmo y amor por la automatización elegante.
+Proyecto personal.
 
 ---
 
